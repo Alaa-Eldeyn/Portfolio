@@ -13,7 +13,7 @@ import {
 } from "react-icons/fa";
 import { BiLogoJquery, BiLogoRedux, BiLogoGit } from "react-icons/bi";
 import { GoCommandPalette } from "react-icons/go";
-import { TbMobiledata } from "react-icons/tb";
+// import { TbMobiledata } from "react-icons/tb";
 
 export const navPages = [
   { id: 1, name: "Home", link: "/" },

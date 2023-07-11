@@ -69,7 +69,7 @@ const Home = () => {
                 </motion.p>
               ))}
               <MobileHomeSocial />
-              <div className="d-flex gap-3 mt-4 btn-container">
+              <div className="d-flex gap-3 mt-4 btn-container justify-content-center align-items-center">
                 <motion.a
                   variants={welcomeTitle}
                   initial={"hidden"}

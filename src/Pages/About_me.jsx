@@ -29,7 +29,7 @@ const About_me = () => {
             alt="about me"
           />
         </motion.div>
-        <div className=" ps-lg-5 pb-3 ">
+        <div className=" ps-lg-5 pb-3 pt-3 ">
           <motion.p
             initial={{ x: 100, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
@@ -51,7 +51,7 @@ const About_me = () => {
             clean code. I stay up-to-date with the latest development tools and
             techniques to ensure that I deliver cutting-edge web applications.
           </motion.p>
-          <div className="d-flex">
+          <div className="d-flex flex-column flex-md-row gap-3">
             {[
               {
                 text: "Download CV",

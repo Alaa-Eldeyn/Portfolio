@@ -43,7 +43,7 @@ export const skills = [
   { id: 6, icon: <BiLogoRedux />, text: "Redux Toolkit" },
   { id: 7, icon: <BiLogoGit />, text: "Git" },
   { id: 8, icon: <FaGithub />, text: "Github" },
-  { id: 9, icon: <TbMobiledata />, text: "RESTful API's" },
+  // { id: 9, icon: <TbMobiledata />, text: "RESTful API's" },
   { id: 10, icon: <GoCommandPalette />, text: "Command line" },
   { id: 11, icon: <FaMobile />, text: "Responsive Designs" },
   { id: 12, icon: <FaNpm />, text: "Package managers" },
